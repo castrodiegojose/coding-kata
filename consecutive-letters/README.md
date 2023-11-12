@@ -1,0 +1,1 @@
+find the major number 'c' of consecutive letters 'l (or L)' and show it on an array [l, c]
